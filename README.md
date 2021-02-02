@@ -4,10 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incia94&label=Profile%20views&color=0e75b6&style=flat" alt="incia94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incia94" alt="incia94" /></a> </p>
-
+- :computer: I’m currently working with **Dell Technologies**
+- :woman_technologist:I'm working as a **Software Engineer 2**
+- :mortar_board:Alma Mater **Bits Pilani Goa**
+- 📫 How to reach me **anandincia@gmail.com**
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **anandincia@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
