@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hey, I'm Incia Anand 👋
 
 ### Senior Software Engineer · Distributed Systems · Infrastructure Automation · AI Infra Explorer
@@ -6,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-incia94-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/incia94)
 [![Email](https://img.shields.io/badge/Email-anandincia@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anandincia@gmail.com)
 
-
+</div>
 ---
 
 ## 🧭 About Me
