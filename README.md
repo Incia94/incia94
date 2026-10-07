@@ -2,7 +2,7 @@
   
 # Hey, I'm Incia Anand 👋
 
-### Senior Software Engineer · Distributed Systems · Infrastructure Automation · AI Infra Explorer
+### Senior Software Engineer | Forward Deployed & Applied AI Engineering | Distributed Systems | Enterprise Integrations | ex-Oracle,Dell
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-incia--anand-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/incia-anand/)
 [![GitHub](https://img.shields.io/badge/GitHub-incia94-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/incia94)
